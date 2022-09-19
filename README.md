@@ -1,7 +1,7 @@
 <h1 align="center"> About Me </h1>
 
 ## Education
--Bachelor's Degree: Florida International University | 4.0 GPA | Computer Science | In Progress
+-Bachelor's Degree: Florida International University | Computer Science | 4.0 GPA | In Progress
 
 -Associate's Degree: Miami Dade College | Computer Science | 4.0 GPA | Earned 07/2021
 
